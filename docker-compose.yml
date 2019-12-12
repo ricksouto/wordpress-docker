@@ -39,6 +39,3 @@ networks:
   wp:
 volumes:
   db_data:
-
-# Execute machine terminal
-#docker exec -it docker-image-name bash
