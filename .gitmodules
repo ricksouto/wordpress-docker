@@ -1,3 +1,4 @@
+
 [submodule "themes/cavalus"]
 	path = themes/cavalus
-	url = https://ricksouto@bitbucket.org/icloudssw/cavalus-tema.git
+	url = git@bitbucket.org:icloudssw/cavalus-tema.git
